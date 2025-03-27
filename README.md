@@ -5,8 +5,11 @@ Added: Women in Tech talk on March 2025 as a pdf file here: https://github.com/S
 
 Additional links: 
 Glasgow:https://datascotland.org/ 
+
 London:https://sqlbits.com/
+
 My portfolio:https://surya-lr.github.io/MyDataPortfolio/
+
 Aberdeen: https://www.meetup.com/dpacabz/
 
 Youtube channel: https://www.youtube.com/channel/UCYQCrIvK4TTXJ-iLcfBSvig 
