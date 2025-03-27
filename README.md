@@ -16,6 +16,6 @@ My portfolio:https://surya-lr.github.io/MyDataPortfolio/
 
 Aberdeen: https://www.meetup.com/dpacabz/
 
-Youtube channel: https://www.youtube.com/channel/UCYQCrIvK4TTXJ-iLcfBSvig 
+Youtube channel: Data and AI Conversations with Surya - https://www.youtube.com/channel/UCYQCrIvK4TTXJ-iLcfBSvig 
 
 ![image](https://github.com/user-attachments/assets/8f9c0f0a-9619-43f9-8c5a-48f78579ad1d)
